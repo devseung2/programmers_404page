@@ -1,0 +1,10 @@
+{
+    "name": "programmers_404page",
+    "private": true,
+    "homepage": "https://devseung2.github.io/programmers_404page/",
+    "scripts": {
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build"
+    }
+  }
+  
